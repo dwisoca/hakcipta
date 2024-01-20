@@ -1,7 +1,7 @@
 # Hak Cipta 
 
 Repository ini adalah project web app untuk pengelolaan hak cipta. Project ini menggunakan Nuxt 3 sebagai framework, daisyUI untuk antar muka, dan layanan Firebase sebagai database, storage dan authentication. 
-Untuk pengembangan aplikasi ini dapat dihubungkan dengan bot puppeteer (https://github.com/dwisoca/botHakCipta) untuk mendaftarkan hak cipta secara otomatis pada website hak cipta DJKI.
+Untuk pengembangan aplikasi ini dapat dihubungkan dengan bot puppeteer (https://github.com/dwisoca/HakCiptaBot) untuk mendaftarkan hak cipta secara otomatis pada website hak cipta DJKI.
 
 ## Setup
 
